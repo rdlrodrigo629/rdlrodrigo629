@@ -63,51 +63,61 @@ Atualmente concentro meus projetos em **operações florestais, logística, tran
 
 # 🚀 Projetos em destaque
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🚛 Motorista Cargo Polo
 
-### 🚛 Motorista Cargo Polo
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rdlrodrigo629/rdlrodrigo629/main/ChatGPT%20Image%2010%20de%20set.%20de%202026%2C%2011_36_02%20(1).png" alt="Motorista Cargo Polo" width="100%" />
+</p>
 
-Ecossistema digital para operações de transporte e gestão de motoristas.
+Ecossistema digital desenvolvido para **operações de transporte e gestão de motoristas**, conectando aplicativo mobile, portal web, dados operacionais e indicadores de desempenho.
 
-**Principais entregas:**
+**Principais entregas:** aplicativo Flutter, Firebase, integração com API CreareCloud, sincronização automática, indicadores de combustível, ranking de motoristas e dashboards operacionais.
 
-- Aplicativo mobile em Flutter
-- Portal web integrado
-- Firebase
-- Sincronização automática
-- Integração com API CreareCloud
-- Indicadores de combustível
-- Ranking de motoristas
-- Dashboards operacionais
+**Stack:** `Flutter` `Firebase` `JavaScript` `REST API` `Google Apps Script`
 
-**Stack:** `Flutter` `Firebase` `JavaScript` `REST API` `Apps Script`
+🔗 [Acessar Portal Motorista Cargo Polo](https://cargo-polo-dashboard.web.app/)
 
-🔗 [Acessar portal](https://cargo-polo-dashboard.web.app/)
+---
 
-</td>
-<td width="50%" valign="top">
+## 🌲 Tecnologia para Operações Florestais
 
-### 🌲 Tecnologia para Operações Florestais
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rdlrodrigo629/rdlrodrigo629/main/ChatGPT%20Image%2010%20de%20set.%20de%202026%2C%2011_36_02%20(2).png" alt="Tecnologia para Operações Florestais" width="100%" />
+</p>
 
-Soluções digitais para elevar visibilidade, segurança e produtividade em campo.
+Soluções digitais aplicadas ao ambiente florestal para ampliar **visibilidade operacional, produtividade, conectividade e segurança em campo**.
 
-**Principais frentes:**
+**Principais frentes:** telemetria avançada, videomonitoramento embarcado, conectividade remota, PCM, Business Intelligence, monitoramento de ativos e indicadores executivos.
 
-- Telemetria avançada
-- Videomonitoramento embarcado
-- Conectividade via Starlink
-- Aplicativo de abastecimento
-- PCM e monitoramento de manutenção
-- Dashboards gerenciais
-- Aplicações digitais de segurança
+**Foco:** `IoT` `Telemetria` `Dados` `BI` `Automação` `Monitoramento`
 
-**Foco:** `IoT` `Dados` `BI` `Automação` `Monitoramento`
+---
 
-</td>
-</tr>
-</table>
+## ⛽ Aplicativo de Abastecimento Riacho Florestal
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rdlrodrigo629/rdlrodrigo629/main/ChatGPT%20Image%2010%20de%20set.%20de%202026%2C%2011_36_36%20(1).png" alt="Aplicativo de Abastecimento Riacho Florestal" width="100%" />
+</p>
+
+Plataforma para **digitalização e rastreabilidade dos abastecimentos realizados em campo**, com controle de estoque, consumo, comboios e integração operacional.
+
+**Principais recursos:** registro digital de abastecimentos, controle de estoque, operação offline, indicadores por veículos e máquinas, ranking de consumo, BI e integração com TOTVS.
+
+**Stack:** `HTML` `CSS` `JavaScript` `PWA` `Google Sheets` `TOTVS`
+
+---
+
+## 🦺 DDS Riacho Florestal
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rdlrodrigo629/rdlrodrigo629/main/ChatGPT%20Image%2010%20de%20set.%20de%202026%2C%2011_36_36%20(2).png" alt="DDS Riacho Florestal" width="100%" />
+</p>
+
+Plataforma digital para fortalecer a **cultura de segurança, comunicação e engajamento das equipes operacionais**.
+
+**Principais recursos:** login por CPF, vídeos, conteúdos, enquetes, perguntas e respostas, jogos, Regras de Ouro, painel administrativo e indicadores de participação.
+
+**Foco:** `Segurança` `Comunicação` `Engajamento` `Dashboard` `Aplicação Web`
 
 ---
 
