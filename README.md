@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B5D1E,50:128A3A,100:1FBF5B&text=Rodrigo%20Luciano&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Engenharia%20%7C%20IA%20%7C%20Dados%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Tecnologia%20Operacional&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:06283D,50:0B5ED7,100:18A0FB&text=Rodrigo%20Luciano&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Engenharia%20%7C%20IA%20%7C%20Dados%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Log%C3%ADstica&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Engenheiro+de+Computa%C3%A7%C3%A3o;Intelig%C3%AAncia+Artificial+%26+Automa%C3%A7%C3%A3o;APIs%2C+Dados%2C+Dashboards+e+Integra%C3%A7%C3%B5es;Telemetria%2C+IoT+e+Monitoramento+Operacional;Solu%C3%A7%C3%B5es+digitais+para+Log%C3%ADstica+e+Opera%C3%A7%C3%B5es+Florestais" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=18A0FB&center=true&vCenter=true&width=900&lines=Engenheiro+de+Computa%C3%A7%C3%A3o;Intelig%C3%AAncia+Artificial+%26+Automa%C3%A7%C3%A3o;APIs%2C+Dados%2C+Dashboards+e+Integra%C3%A7%C3%B5es;Telemetria%2C+IoT+e+Monitoramento+Operacional;Tecnologia+aplicada+%C3%A0+Log%C3%ADstica+e+ao+Transporte" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rdlrodrigo629&label=VISITAS+AO+PERFIL&color=16a34a&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=rdlrodrigo629&label=VISITAS+AO+PERFIL&color=0b5ed7&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/rdlrodrigo629?style=for-the-badge&logo=github&label=SEGUIDORES)
 ![GitHub User's stars](https://img.shields.io/github/stars/rdlrodrigo629?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS)
 
@@ -16,11 +16,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Engenheiro de Computação** com atuação na interseção entre **tecnologia, dados e operações**. Desenvolvo soluções voltadas para monitoramento operacional, telemetria, videomonitoramento, integrações via API, Business Intelligence, automação e aplicações web/mobile.
+Sou **Engenheiro de Computação** com atuação na interseção entre **tecnologia, dados e operações**. Desenvolvo soluções para monitoramento operacional, telemetria, integrações via API, Business Intelligence, automação e aplicações web/mobile.
 
-Meu trabalho busca conectar **pessoas, dados, máquinas e inteligência artificial** para transformar processos operacionais em sistemas mais seguros, eficientes, rastreáveis e orientados por dados.
+Meu trabalho busca conectar **pessoas, dados, veículos, sistemas e inteligência artificial** para transformar processos logísticos em operações mais eficientes, rastreáveis e orientadas por dados.
 
-Atualmente concentro meus projetos em **operações florestais, logística, transporte, monitoramento de ativos, aplicativos corporativos, dashboards executivos e automações inteligentes**.
+Atualmente concentro meus projetos em **logística, transporte, monitoramento operacional, integração de sistemas, aplicativos corporativos, dashboards executivos e automações inteligentes**.
 
 ---
 
@@ -57,67 +57,42 @@ Atualmente concentro meus projetos em **operações florestais, logística, tran
 | **Backend & Integrações** | Python, JavaScript, REST APIs, Google Apps Script, Firebase |
 | **Dados & BI** | Power BI, Excel, Google Sheets, Chart.js, dashboards HTML |
 | **Mobile & Web** | Flutter, Dart, HTML5, CSS3, JavaScript, PWA |
-| **Operações & IoT** | Telemetria, videomonitoramento, conectividade remota, monitoramento de ativos |
+| **Logística & Monitoramento** | Telemetria, combustível, performance de frota, rotas, indicadores e monitoramento de ativos |
 
 ---
 
-# 🚀 Projetos em destaque
+# 🚀 Projeto em destaque
 
 ## 🚛 Motorista Cargo Polo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rdlrodrigo629/rdlrodrigo629/main/ChatGPT%20Image%2010%20de%20set.%20de%202026%2C%2011_36_02%20(1).png" alt="Motorista Cargo Polo" width="100%" />
+  <img src="https://raw.githubusercontent.com/rdlrodrigo629/rdlrodrigo629/main/ChatGPT%20Image%2010%20de%20set.%20de%202026%2C%2011_36_36%20(1).png" alt="Motorista Cargo Polo" width="100%" />
 </p>
 
 Ecossistema digital desenvolvido para **operações de transporte e gestão de motoristas**, conectando aplicativo mobile, portal web, dados operacionais e indicadores de desempenho.
 
-**Principais entregas:** aplicativo Flutter, Firebase, integração com API CreareCloud, sincronização automática, indicadores de combustível, ranking de motoristas e dashboards operacionais.
+### Principais entregas
 
-**Stack:** `Flutter` `Firebase` `JavaScript` `REST API` `Google Apps Script`
+- Aplicativo mobile em Flutter
+- Portal web integrado
+- Firebase para sincronização de dados
+- Integração com API CreareCloud
+- Indicadores de consumo e performance
+- Controle e análise de combustível
+- Ranking de motoristas
+- Monitoramento de frota
+- Dashboards gerenciais
+- Visão operacional para tomada de decisão
+
+### Arquitetura e tecnologias
+
+`Flutter` `Dart` `Firebase` `JavaScript` `REST API` `Google Apps Script` `HTML` `CSS`
+
+### Integrações operacionais
+
+`E08` • `A06` • `C09` • `AVL` • `CreareCloud API`
 
 🔗 [Acessar Portal Motorista Cargo Polo](https://cargo-polo-dashboard.web.app/)
-
----
-
-## 🌲 Tecnologia para Operações Florestais
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rdlrodrigo629/rdlrodrigo629/main/ChatGPT%20Image%2010%20de%20set.%20de%202026%2C%2011_36_02%20(2).png" alt="Tecnologia para Operações Florestais" width="100%" />
-</p>
-
-Soluções digitais aplicadas ao ambiente florestal para ampliar **visibilidade operacional, produtividade, conectividade e segurança em campo**.
-
-**Principais frentes:** telemetria avançada, videomonitoramento embarcado, conectividade remota, PCM, Business Intelligence, monitoramento de ativos e indicadores executivos.
-
-**Foco:** `IoT` `Telemetria` `Dados` `BI` `Automação` `Monitoramento`
-
----
-
-## ⛽ Aplicativo de Abastecimento Riacho Florestal
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rdlrodrigo629/rdlrodrigo629/main/ChatGPT%20Image%2010%20de%20set.%20de%202026%2C%2011_36_36%20(1).png" alt="Aplicativo de Abastecimento Riacho Florestal" width="100%" />
-</p>
-
-Plataforma para **digitalização e rastreabilidade dos abastecimentos realizados em campo**, com controle de estoque, consumo, comboios e integração operacional.
-
-**Principais recursos:** registro digital de abastecimentos, controle de estoque, operação offline, indicadores por veículos e máquinas, ranking de consumo, BI e integração com TOTVS.
-
-**Stack:** `HTML` `CSS` `JavaScript` `PWA` `Google Sheets` `TOTVS`
-
----
-
-## 🦺 DDS Riacho Florestal
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rdlrodrigo629/rdlrodrigo629/main/ChatGPT%20Image%2010%20de%20set.%20de%202026%2C%2011_36_36%20(2).png" alt="DDS Riacho Florestal" width="100%" />
-</p>
-
-Plataforma digital para fortalecer a **cultura de segurança, comunicação e engajamento das equipes operacionais**.
-
-**Principais recursos:** login por CPF, vídeos, conteúdos, enquetes, perguntas e respostas, jogos, Regras de Ouro, painel administrativo e indicadores de participação.
-
-**Foco:** `Segurança` `Comunicação` `Engajamento` `Dashboard` `Aplicação Web`
 
 ---
 
@@ -125,9 +100,9 @@ Plataforma digital para fortalecer a **cultura de segurança, comunicação e en
 
 <div align="center">
 
-### **PESSOAS + DADOS + MÁQUINAS + INTELIGÊNCIA ARTIFICIAL**
+### **PESSOAS + DADOS + VEÍCULOS + INTELIGÊNCIA ARTIFICIAL**
 
-**→ decisões melhores → operações mais eficientes → tecnologia com impacto real**
+**→ decisões melhores → operações logísticas mais eficientes → tecnologia com impacto real**
 
 </div>
 
@@ -139,9 +114,9 @@ Plataforma digital para fortalecer a **cultura de segurança, comunicação e en
 
 <div align="center">
 
-![Engenharia](https://img.shields.io/badge/Engenharia%20de%20Computa%C3%A7%C3%A3o-Conclu%C3%ADdo-16a34a?style=for-the-badge)
-![MBA](https://img.shields.io/badge/MBA%20Gest%C3%A3o%20de%20Projetos-Conclu%C3%ADdo-16a34a?style=for-the-badge)
-![Tecnico](https://img.shields.io/badge/T%C3%A9cnico%20em%20Eletr%C3%B4nica-Conclu%C3%ADdo-16a34a?style=for-the-badge)
+![Engenharia](https://img.shields.io/badge/Engenharia%20de%20Computa%C3%A7%C3%A3o-Conclu%C3%ADdo-0b5ed7?style=for-the-badge)
+![MBA](https://img.shields.io/badge/MBA%20Gest%C3%A3o%20de%20Projetos-Conclu%C3%ADdo-0b5ed7?style=for-the-badge)
+![Tecnico](https://img.shields.io/badge/T%C3%A9cnico%20em%20Eletr%C3%B4nica-Conclu%C3%ADdo-0b5ed7?style=for-the-badge)
 
 </div>
 
@@ -168,7 +143,7 @@ Plataforma digital para fortalecer a **cultura de segurança, comunicação e en
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rdlrodrigo629&bg_color=0d1117&color=22c55e&line=16a34a&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rdlrodrigo629&bg_color=0d1117&color=18a0fb&line=0b5ed7&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -176,14 +151,14 @@ Plataforma digital para fortalecer a **cultura de segurança, comunicação e en
 
 ## 🤝 Interesses para colaboração
 
-Tenho interesse em projetos que envolvam **Inteligência Artificial, IoT, telemetria, análise de dados, automação, logística, operações florestais, aplicativos corporativos e transformação digital**.
+Tenho interesse em projetos que envolvam **Inteligência Artificial, IoT, telemetria, análise de dados, automação, logística, transporte, aplicativos corporativos, integração de sistemas e transformação digital**.
 
 <div align="center">
 
 ### 🚀 Tecnologia aplicada a problemas reais.
 
 **Rodrigo Luciano**  
-Engenharia • Dados • IA • Automação • Operações
+Engenharia • Dados • IA • Automação • Logística
 
 <br/>
 
@@ -193,4 +168,4 @@ Engenharia • Dados • IA • Automação • Operações
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B5D1E,50:128A3A,100:1FBF5B&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06283D,50:0B5ED7,100:18A0FB&section=footer" />
