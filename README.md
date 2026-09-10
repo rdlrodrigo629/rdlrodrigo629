@@ -122,28 +122,18 @@ Ecossistema digital desenvolvido para **operações de transporte e gestão de m
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Presença no GitHub
+
+Esta seção foi simplificada para manter o perfil **estável e sem dependência de serviços externos de estatísticas**.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdlrodrigo629&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdlrodrigo629&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rdlrodrigo629&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rdlrodrigo629&bg_color=0d1117&color=18a0fb&line=0b5ed7&point=ffffff&area=true&hide_border=true" width="100%" />
+<a href="https://github.com/rdlrodrigo629">
+  <img src="https://img.shields.io/badge/Perfil_GitHub-rdlrodrigo629-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/rdlrodrigo629/cargo-polo">
+  <img src="https://img.shields.io/badge/Projeto-Motorista_Cargo_Polo-0B5ED7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
