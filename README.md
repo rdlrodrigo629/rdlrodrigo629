@@ -1,191 +1,186 @@
 <div align="center">
 
-# 👋 Olá, eu sou Rodrigo Luciano
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B5D1E,50:128A3A,100:1FBF5B&text=Rodrigo%20Luciano&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Engenharia%20%7C%20IA%20%7C%20Dados%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Tecnologia%20Operacional&descAlignY=60&descSize=18" />
 
-### 💻 Engenharia • Inteligência Artificial • Dados • Automação • Desenvolvimento de Sistemas
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Engenheiro+de+Computa%C3%A7%C3%A3o;Intelig%C3%AAncia+Artificial+%26+Automa%C3%A7%C3%A3o;APIs%2C+Dados%2C+Dashboards+e+Integra%C3%A7%C3%B5es;Telemetria%2C+IoT+e+Monitoramento+Operacional;Solu%C3%A7%C3%B5es+digitais+para+Log%C3%ADstica+e+Opera%C3%A7%C3%B5es+Florestais" alt="Typing SVG" />
 
-Transformando dados, operações e desafios reais em soluções digitais inteligentes.
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rdlrodrigo629&label=VISITAS+AO+PERFIL&color=16a34a&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/rdlrodrigo629?style=for-the-badge&logo=github&label=SEGUIDORES)
+![GitHub User's stars](https://img.shields.io/github/stars/rdlrodrigo629?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS)
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou **Engenheiro de Computação**, com atuação em tecnologia aplicada a operações, logística e ambiente florestal.
+Sou **Engenheiro de Computação** com atuação na interseção entre **tecnologia, dados e operações**. Desenvolvo soluções voltadas para monitoramento operacional, telemetria, videomonitoramento, integrações via API, Business Intelligence, automação e aplicações web/mobile.
 
-Atualmente trabalho com projetos envolvendo **monitoramento operacional, telemetria, videomonitoramento, integração de sistemas, APIs, Business Intelligence, automação e desenvolvimento de aplicações web e mobile**.
+Meu trabalho busca conectar **pessoas, dados, máquinas e inteligência artificial** para transformar processos operacionais em sistemas mais seguros, eficientes, rastreáveis e orientados por dados.
 
-Minha experiência combina conhecimento de campo, análise de dados e desenvolvimento de software para criar soluções capazes de gerar **eficiência operacional, produtividade, segurança e melhor tomada de decisão**.
-
-Também atuo com **Inteligência Artificial Generativa**, automações e desenvolvimento de soluções digitais apoiadas por IA.
+Atualmente concentro meus projetos em **operações florestais, logística, transporte, monitoramento de ativos, aplicativos corporativos, dashboards executivos e automações inteligentes**.
 
 ---
 
-## 🧠 Principais áreas de atuação
+## 🎯 Especialidades
 
-- 🤖 Inteligência Artificial e IA Generativa
-- 🐍 Python
-- 🔌 APIs REST e integrações
-- 📊 Business Intelligence e dashboards
-- 🌐 Desenvolvimento Web
-- 📱 Desenvolvimento Mobile
-- 🔥 Firebase
-- 📡 Telemetria e IoT
-- 🎥 Videomonitoramento embarcado
-- 🚛 Tecnologia aplicada à logística
-- 🌲 Tecnologia aplicada às operações florestais
-- ⚙️ Automação de processos
-- 📈 Monitoramento e análise operacional
+<div align="center">
 
----
+![Artificial Intelligence](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/APIs%20REST-111827?style=for-the-badge&logo=fastapi&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-111827?style=for-the-badge&logo=powerbi&logoColor=white)
+![Telemetry](https://img.shields.io/badge/Telemetria%20%26%20IoT-111827?style=for-the-badge&logo=internetofthings&logoColor=white)
+![Automation](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-111827?style=for-the-badge&logo=n8n&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=white)
 
-## 🛠️ Tecnologias e ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flutter,dart,firebase,git,github,vscode,androidstudio" />
-</p>
-
-### Dados & Analytics
-
-`Power BI` • `Excel` • `Google Sheets` • `Chart.js` • `Dashboards HTML`
-
-### Backend & Integrações
-
-`Python` • `JavaScript` • `REST APIs` • `Firebase` • `Google Apps Script`
-
-### Mobile & Web
-
-`Flutter` • `HTML5` • `CSS3` • `JavaScript` • `PWA`
-
-### IA & Automação
-
-`Generative AI` • `Prompt Engineering` • `Automação` • `Agentes de IA` • `APIs de IA`
+</div>
 
 ---
 
-# 💼 Projetos em destaque
+## 🛠️ Stack de tecnologia
 
-## 🚛 Motorista Cargo Polo
+<div align="center">
 
-Ecossistema digital desenvolvido para operações de transporte e gestão de motoristas.
+<img src="https://skillicons.dev/icons?i=python,js,html,css,dart,flutter,firebase,git,github,vscode,androidstudio&perline=11" />
 
-### Principais recursos
+</div>
 
-- 📱 Aplicativo mobile em Flutter
-- 🌐 Portal web
-- 🔥 Firebase
-- 🔄 Sincronização automática de dados
-- 🔌 Integração com API CreareCloud
-- 📊 Indicadores operacionais
-- ⛽ Monitoramento de combustível
-- 🚛 Análise de desempenho da frota
-- 🏆 Ranking de motoristas
-- 📈 Dashboards gerenciais
+<br/>
 
-**Tecnologias**
-
-`Flutter` `Firebase` `JavaScript` `API REST` `Google Apps Script` `HTML` `CSS`
+| Área | Tecnologias e ferramentas |
+|---|---|
+| **IA & Automação** | IA Generativa, Prompt Engineering, Agentes de IA, APIs de IA, automação de processos |
+| **Backend & Integrações** | Python, JavaScript, REST APIs, Google Apps Script, Firebase |
+| **Dados & BI** | Power BI, Excel, Google Sheets, Chart.js, dashboards HTML |
+| **Mobile & Web** | Flutter, Dart, HTML5, CSS3, JavaScript, PWA |
+| **Operações & IoT** | Telemetria, videomonitoramento, conectividade remota, monitoramento de ativos |
 
 ---
 
-## 🌲 Tecnologia para Operações Florestais
+# 🚀 Projetos em destaque
 
-Projetos desenvolvidos para digitalização e monitoramento de operações florestais.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Soluções
+### 🚛 Motorista Cargo Polo
 
-📡 **Telemetria avançada**  
-Monitoramento de máquinas e equipamentos operacionais.
+Ecossistema digital para operações de transporte e gestão de motoristas.
 
-🎥 **Videomonitoramento embarcado**  
-Acompanhamento remoto da operação em campo.
+**Principais entregas:**
 
-🛰️ **Conectividade via Starlink**  
-Comunicação de equipamentos em regiões remotas.
+- Aplicativo mobile em Flutter
+- Portal web integrado
+- Firebase
+- Sincronização automática
+- Integração com API CreareCloud
+- Indicadores de combustível
+- Ranking de motoristas
+- Dashboards operacionais
 
-⛽ **Aplicativo de Abastecimento**  
-Digitalização e rastreabilidade dos abastecimentos realizados em campo.
+**Stack:** `Flutter` `Firebase` `JavaScript` `REST API` `Apps Script`
 
-📊 **PCM e Business Intelligence**  
-Monitoramento de manutenção, disponibilidade de equipamentos, horímetros e indicadores operacionais.
+🔗 [Acessar portal](https://cargo-polo-dashboard.web.app/)
 
-🦺 **Aplicações de Segurança**  
-Soluções digitais destinadas a DDS, treinamentos e gestão de informações relacionadas à segurança operacional.
+</td>
+<td width="50%" valign="top">
+
+### 🌲 Tecnologia para Operações Florestais
+
+Soluções digitais para elevar visibilidade, segurança e produtividade em campo.
+
+**Principais frentes:**
+
+- Telemetria avançada
+- Videomonitoramento embarcado
+- Conectividade via Starlink
+- Aplicativo de abastecimento
+- PCM e monitoramento de manutenção
+- Dashboards gerenciais
+- Aplicações digitais de segurança
+
+**Foco:** `IoT` `Dados` `BI` `Automação` `Monitoramento`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎯 Minha visão
+## 🧩 Como penso tecnologia
 
-> Tecnologia gera valor quando resolve problemas reais.
+<div align="center">
 
-Meu foco é transformar processos operacionais em soluções digitais capazes de conectar:
+### **PESSOAS + DADOS + MÁQUINAS + INTELIGÊNCIA ARTIFICIAL**
 
-### **Pessoas + Dados + Máquinas + Inteligência Artificial**
+**→ decisões melhores → operações mais eficientes → tecnologia com impacto real**
 
-para melhorar a tomada de decisão e aumentar a eficiência das operações.
+</div>
+
+> Tecnologia gera valor quando resolve problemas reais, simplifica decisões e melhora a operação.
 
 ---
 
 ## 🎓 Formação
 
-🎓 **Engenharia de Computação**  
-🎓 **MBA em Gestão de Projetos**  
-🔧 **Técnico em Eletrônica**
-
----
-
-## 📚 Conhecimentos complementares
-
-- Inteligência Artificial Generativa
-- Python
-- Business Intelligence
-- Engenharia de Dados
-- Gestão de Projetos
-- Telemetria
-- IoT
-- Automação
-- Desenvolvimento de aplicações
-- Análise de dados
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rdlrodrigo629&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdlrodrigo629&layout=compact&langs_count=8&theme=github_dark"/>
+![Engenharia](https://img.shields.io/badge/Engenharia%20de%20Computa%C3%A7%C3%A3o-Conclu%C3%ADdo-16a34a?style=for-the-badge)
+![MBA](https://img.shields.io/badge/MBA%20Gest%C3%A3o%20de%20Projetos-Conclu%C3%ADdo-16a34a?style=for-the-badge)
+![Tecnico](https://img.shields.io/badge/T%C3%A9cnico%20em%20Eletr%C3%B4nica-Conclu%C3%ADdo-16a34a?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🔥 Atividade no GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rdlrodrigo629&theme=github-dark-blue"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdlrodrigo629&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdlrodrigo629&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rdlrodrigo629&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌐 Vamos conectar tecnologia e operações
+## 📈 Atividade
 
-Tenho especial interesse em projetos envolvendo:
+<div align="center">
 
-`IA` • `IoT` • `Telemetria` • `Dados` • `Automação` • `Logística` • `Operações Florestais` • `Desenvolvimento`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rdlrodrigo629&bg_color=0d1117&color=22c55e&line=16a34a&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
 
 ---
+
+## 🤝 Interesses para colaboração
+
+Tenho interesse em projetos que envolvam **Inteligência Artificial, IoT, telemetria, análise de dados, automação, logística, operações florestais, aplicativos corporativos e transformação digital**.
 
 <div align="center">
 
 ### 🚀 Tecnologia aplicada a problemas reais.
 
-**Rodrigo Luciano**
+**Rodrigo Luciano**  
+Engenharia • Dados • IA • Automação • Operações
 
-Engenharia • Dados • Inteligência Artificial • Automação
+<br/>
+
+<a href="https://github.com/rdlrodrigo629">
+  <img src="https://img.shields.io/badge/GitHub-rdlrodrigo629-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B5D1E,50:128A3A,100:1FBF5B&section=footer" />
