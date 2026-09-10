@@ -65,10 +65,6 @@ Atualmente concentro meus projetos em **logística, transporte, monitoramento op
 
 ## 🚛 Motorista Cargo Polo
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rdlrodrigo629/rdlrodrigo629/main/ChatGPT%20Image%2010%20de%20set.%20de%202026%2C%2011_36_36%20(1).png" alt="Motorista Cargo Polo" width="100%" />
-</p>
-
 Ecossistema digital desenvolvido para **operações de transporte e gestão de motoristas**, conectando aplicativo mobile, portal web, dados operacionais e indicadores de desempenho.
 
 ### Principais entregas
@@ -91,6 +87,8 @@ Ecossistema digital desenvolvido para **operações de transporte e gestão de m
 ### Integrações operacionais
 
 `E08` • `A06` • `C09` • `AVL` • `CreareCloud API`
+
+> 🔒 Código-fonte e ativos proprietários mantidos em repositórios privados. Este perfil público apresenta apenas informações técnicas de portfólio.
 
 🔗 [Acessar Portal Motorista Cargo Polo](https://cargo-polo-dashboard.web.app/)
 
@@ -124,15 +122,10 @@ Ecossistema digital desenvolvido para **operações de transporte e gestão de m
 
 ## 📊 Presença no GitHub
 
-Esta seção foi simplificada para manter o perfil **estável e sem dependência de serviços externos de estatísticas**.
-
 <div align="center">
 
 <a href="https://github.com/rdlrodrigo629">
   <img src="https://img.shields.io/badge/Perfil_GitHub-rdlrodrigo629-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/rdlrodrigo629/cargo-polo">
-  <img src="https://img.shields.io/badge/Projeto-Motorista_Cargo_Polo-0B5ED7?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
